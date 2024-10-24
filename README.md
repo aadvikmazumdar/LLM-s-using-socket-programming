@@ -6,3 +6,4 @@ Few snapshots of my work
 <p>
   <img src = "image.png" alt = "image">
 </p>
+https://github.com/ollama/ollama/blob/main/docs/modelfile.md -- ollama tutorial sheet
